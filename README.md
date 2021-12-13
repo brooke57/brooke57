@@ -5,7 +5,7 @@
 
 The purpose of this project was to analyze data regarding movie box office sales, actors, directors, ratings, etc  in order to make recommendations to a new, hypothetical microsoft movie studio which wants its first movie to be a success. We chose to recommend that Microsoft hire directors, actors, and writers who had the highest return on investment (ROI) on the films that they were involved with.
 
-### [Home Price Analysis in King County, Washington](https://github.com/ElyLin/HomePriceAnalysis)
+### [Home Price Analysis](https://github.com/ElyLin/HomePriceAnalysis)
 
 The purpose of this project was to analyze features of houses in King County, Washington in order to see if we could use a linear regression model to successfully predict house sale prices. The business purpose of this project was to introduce a predictive model for a hypothetical bank which it could use to determine whether or not a house represents sufficient collateral to justify giving out a loan to a client interested in the home.
 
