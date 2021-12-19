@@ -11,7 +11,7 @@ The purpose of this project was to analyze features of houses in King County, Wa
 
 ### [H1N1 Flu Vaccination Prediction](https://github.com/emykes/Flu_Vaccination_ML)
 
-In this project, we leveraged a variety of machine learning models in order to predict the likelihood of an individual getting vaccinated with the H1N1 flu vaccine from the National Flu Survey (NHFS, 2009) data, and the factors which most contributed to vaccination status. Insights gleaned from understanding past vaccination patterns can perhaps help assist factors which affect vaccination behavior for other vaccines, such as the COVID-19 vaccine.
+In this project, we leveraged a variety of predictive modeling tools in order to predict the likelihood of an individual getting vaccinated with the H1N1 flu vaccine from the National Flu Survey (NHFS, 2009) data, and the factors which most contributed to vaccination status. Insights gleaned from understanding past vaccination patterns can perhaps help assist factors which affect vaccination behavior for other vaccines, such as the COVID-19 vaccine.
 
 ### [OES-Pneumonia Classification](https://github.com/austint1121/OES-PneumoniaClassification)
 
