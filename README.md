@@ -1,5 +1,7 @@
-## Data Science Projects
+## Hello!
+With a background in the biomedical sciences and as a graduate of the Flatiron School's Data Science program, I bring strong skills in data acquisition, modeling, and analysis. I am interested in the application of computational and statistical techniques to analyze data and answer biomedical questions.
 
+## Data Science Projects
 
  ### [Movie Analysis Project](https://github.com/Shoemaker703/Movie_Analysis_Project)
 
