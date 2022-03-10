@@ -1,5 +1,8 @@
 ## Hello!
-With a background in the biomedical sciences and as a graduate of the Flatiron School's Data Science program, I bring strong skills in data acquisition, modeling, and analysis. I am interested in the application of computational and statistical techniques to analyze data and answer biomedical questions.
+I have experience in predictive modeling, statistical analysis, machine learning, and Image Classification. With a background in neuroscience and the biomedical sciences, I bring strong skills in data analysis and collaboration that help research groups make powerful insights and help companies utilize data to impact organizational decisions.
+
+![image](https://user-images.githubusercontent.com/68525050/157759555-732f701b-36aa-4987-8313-ec702f53a183.png)
+
 
 ## Data Science Projects
 
